@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola 👋, Mi nombre es Mariano Farrate
+###  Mi nombre es Mariano Farrate
 #### Soy un Full Stack Developer
 ![Soy un Full Stack Developer](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/programacion-1917283.jpg)
 
