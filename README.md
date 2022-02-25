@@ -37,6 +37,7 @@ Buscar videjuegos
 Filtrarlos / Ordenarlos
 Usamos distintas tecnologias para su implementacion como Sequelize y Postgres en su Base de Datos, NodeJs - Express en su backend y React-Redux en el frontend
 Agregar nuevos videojuegos - [link del proyecto](https://github.com/marianofarrate/PI-Videogames)
+![image text](https://github.com/marianofarrate/marianofarrate/blob/main/videogames.png)
 
 Proyecto Breaking Bad 
 construido con tecnologia React para una aplicacion en la que podemos ver los personajes de la serie Breaking Bad utilizando la informacion traida de la Api
