@@ -47,6 +47,8 @@ Proyecto Rick & Morty
 construido en Tecnologia React utilizando una api que nos mostrará los personajes de la serie Rick & Morty y en la cual podremos traer los personajes de la serie.
 [link del proyecto](https://github.com/marianofarrate/React-Rick-and-Morty-App)
 
+![image text](https://github.com/marianofarrate/marianofarrate/blob/main/rickandmorty.png)
+
 - 🔭 Estoy trabajando en Una SPA (Single Page Api) que busca clínicas veterinarias de la zona donde se pueden realizar reservas de turnos para la atencion de emergencia de mascotas. 
 - 🌱 Estoy aprendiendo sobre SCRUM y el manejo de GIT . 
 - 📫 Cómo contactarme: igorandrev@hotmail.com 
