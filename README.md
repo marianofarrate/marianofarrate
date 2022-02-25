@@ -43,6 +43,8 @@ Proyecto Breaking Bad
 construido con tecnologia React para una aplicacion en la que podemos ver los personajes de la serie Breaking Bad utilizando la informacion traida de la Api
 [link del proyecto](https://github.com/marianofarrate/React-Breaking-Bad-App-)
 
+![image text](https://github.com/marianofarrate/marianofarrate/blob/main/breakingbad.png)
+
 Proyecto Rick & Morty
 construido en Tecnologia React utilizando una api que nos mostrará los personajes de la serie Rick & Morty y en la cual podremos traer los personajes de la serie.
 [link del proyecto](https://github.com/marianofarrate/React-Rick-and-Morty-App)
