@@ -39,6 +39,14 @@ Usamos distintas tecnologias para su implementacion como Sequelize y Postgres en
 Agregar nuevos videojuegos - [link del proyecto](https://github.com/marianofarrate/PI-Videogames)
 ![image text](https://github.com/marianofarrate/marianofarrate/blob/main/videogames.png)
 
+Proyecto Individual - Dogs
+Como parte de mi proceso de aprendizaje me propuse crear una aplicación SPA(Single Page Application) en la cual se puedan ver distintas razas de perro junto con información relevante de las mismas utilizando la api externa the dog api y a partir de ella poder, entre otras cosas:
+Buscar perros
+Filtrarlos / Ordenarlos
+Agregar nuevos perros
+Utilicé distintas tecnologias para la implementacion de la SPA : Postgres y Sequelize en su Base de Datos, Node.JS y Express para su Backend y tambien React.Js y REdux para su Frontend. Para los distintos estilos recurrí a CSS modules - [link del proyecto](https://github.com/marianofarrate/PI-Dogs)
+![image text](https://github.com/marianofarrate/marianofarrate/blob/main/dogs.png)
+
 Proyecto Breaking Bad 
 construido con tecnologia React para una aplicacion en la que podemos ver los personajes de la serie Breaking Bad utilizando la informacion traida de la Api
 [link del proyecto](https://github.com/marianofarrate/React-Breaking-Bad-App-)
