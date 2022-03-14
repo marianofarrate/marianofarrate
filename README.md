@@ -28,6 +28,9 @@ HTML /
 CSS /
 EXPRESS /
 SEQUELIZE /
+JSON WEB TOKKEN /
+GIT FLOW /
+FIREBASE DEPLOYMENT /
  
 -Mis últimos Proyectos realizados:
 
