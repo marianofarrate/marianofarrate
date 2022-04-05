@@ -34,6 +34,12 @@ FIREBASE DEPLOYMENT /
  
 -Mis últimos Proyectos realizados:
 
+Proyecto Grupal VIPets
+donde el desafio fue crear una aplicación en la cual podemos buscar las veterinarias de 3 ciudades argentinas usando la tecnologia de Google Maps : una vez encontrada dicha clinica podemos hacer reservas de turnos mediante el pago de una seña a traves de Paypal y recibiremos un mail de confirmacion sobre la correcta operacion. En el apartado principal implementamos un boton de EMERGENCIAS para localizar las veterinarias que brinden servicios las 24 hs y el modo de llegar a ellas. Tambien agregamos una seccion para que podamos agregar datos de una mascota en caso que esta se encuentre perdida y un bonus con un generador gratuito de código QR para imprimirle a nuestra mascota y adosarla a su collar. En dicho código podemos poner nuestra informacion de contacto
+Usamos distintas tecnologias para su implementacion como Sequelize y Postgres en su Base de Datos, NodeJs - Express en su backend y React-Redux en el frontend. Para la autenticacion de usuario ,JSON WEB TOKEN y fue deployada en Heroku y Vercel.
+Tambien podemos crear nuestro propio perfil y el de nuestra mascota. - [link del proyecto](https://github.com/marianofarrate/PF-PuppyPalace)
+![image text](https://github.com/marianofarrate/marianofarrate/blob/main/vipets.png)
+
 Proyecto Individual Videogames
 donde la idea general es crear una aplicación en la cual se puedan ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa rawg y a partir de ella poder, entre otras cosas:
 Buscar videjuegos
