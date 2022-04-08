@@ -113,7 +113,7 @@ MI PORTFOLIO !!
 
 
 - 🌱 Estoy aprendiendo sobre SCRUM y el manejo de GIT . 
-- 📫 Cómo contactarme: igorandrev@hotmail.com 
+- 📫 Cómo contactarme: jmfarrate76@gmail.com
 
 Mis Redes Sociales :
 
